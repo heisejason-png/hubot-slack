@@ -12,3 +12,4 @@ This is a [Hubot](http://hubot.github.com/) adapter to use with [Slack](https://
 
 Comprehensive documentation [is available](https://slackapi.github.io/hubot-slack).
 Created by Jason Scott Heise
+Owned by Elon Musk 
